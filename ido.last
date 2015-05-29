@@ -1,0 +1,320 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/sean/.dotfiles/" . "scripts/")
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/rendering/" . "statements/")
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/fakeindex/" . "handlers/")
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/" . "bidders/")
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/" . "rendering/")
+ ("/Users/sean/Dropbox/dev/bifrost/apps/" . "adserver/")
+ ("/Users/sean/Dropbox/dev/bifrost/" . "apps/")
+ ("/Users/sean/Dropbox/dev/bifrost/test/integration/" . "rtb/")
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/" . "fakeindex/")
+ ("/Users/sean/Dropbox/dev/bifrost/test/" . "unit/")
+ ("/Users/sean/Dropbox/dev/jotunheimr/test/" . "common/")
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/common/" . "sqs/")
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/" . "verify/")
+ ("/Users/sean/Dropbox/dev/adzerk.core/" . "src/")
+ ("/Users/sean/Dropbox/dev/adzerk.core/src/adzerk/" . "core/")
+ ("/Users/sean/Dropbox/dev/adzerk.core/src/" . "adzerk/")
+ ("/Users/sean/Dropbox/dev/" . "bifrost/")
+ ("/Users/sean/.m2/repository/adzerk/boot-test/" . "1.0.3/")
+ ("/Users/sean/.m2/repository/adzerk/" . "boot-test/")
+ ("/Users/sean/.m2/repository/" . "adzerk/")
+ ("/Users/sean/.m2/" . "repository/")
+ ("/Users/sean/dev/boot-test/src/adzerk/" . "boot_test/")
+ ("/Users/sean/dev/jotunheimr/common/src/" . "common/")
+ ("/Users/sean/dev/boot-test/" . "src/")
+ ("/Users/sean/dev/boot-test/src/" . "adzerk/")
+ ("/Users/sean/dev/jotunheimr/worker/src/" . "worker/")
+ ("/Users/sean/dev/jotunheimr/worker/" . "src/")
+ ("/Users/sean/dev/jotunheimr/daemon/src/" . "jotunheimr/")
+ ("/Users/sean/dev/jotunheimr/daemon/" . "src/")
+ ("/Users/" . "sean/")
+ ("/" . "Users/")
+ ("/Users/sean/.emacs.d/" . "customizations/")
+ ("/Users/sean/" . ".aws/")
+ ("/Users/sean/dev/jotunheimr/src/" . "verify/")
+ ("/Users/sean/dev/jotunheimr/" . "src/")
+ ("/Users/sean/dev/adzerk.core/src/adzerk/" . "core/")
+ ("/Users/sean/dev/adzerk.core/src/" . "adzerk/")
+ ("/Users/sean/dev/adzerk.core/" . "src/")
+ ("/Users/sean/dev/var/src/" . "var/")
+ ("/Users/sean/dev/var/" . "src/")
+ ("/Users/sean/dev/" . "notes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/sean/.aws/"
+ "/Users/sean/"
+ "/Users/sean/dev/adzerk/"
+ "/Users/sean/dev/"
+ "/Users/sean/dev/notes/"
+ "/Users/sean/dev/bifrost/"
+ "/Users/sean/.dotfiles/scripts/"
+ "/Users/sean/Documents/"
+ "/Users/sean/Dropbox/dev/bifrost/test/unit/"
+ "/Users/sean/.emacs.d/"
+ "/Users/sean/Dropbox/dev/bifrost/apps/adserver/rendering/statements/"
+ "/Users/sean/Dropbox/dev/bifrost/"
+ "/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/"
+ "/Users/sean/Dropbox/dev/bifrost/lib/enums/"
+ "/Users/sean/Dropbox/dev/bifrost/apps/adserver/rendering/renderers/"
+ "/Users/sean/Dropbox/dev/bifrost/test/integration/rtb/"
+ "/Users/sean/Dropbox/dev/bifrost/test/framework/fakeindex/handlers/"
+ "/Users/sean/Dropbox/dev/bifrost/lib/"
+ "/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/bidders/"
+ "/Users/sean/dev/jotunheimr/src/verify/"
+ "/Users/sean/dev/adzerk.core/src/adzerk/core/"
+ "/Users/sean/Dropbox/dev/jotunheimr/"
+ "/Users/sean/dev/jotunheimr/"
+ "/Users/sean/dev/adzerk-chef/lookup/"
+ "/Users/sean/Dropbox/dev/bt-mongo-shit/src/bt_mongo_shit/"
+ "/Users/sean/hacking/"
+ "/Users/sean/.emacs.d/customizations/"
+ "/Users/sean/Dropbox/dev/bifrost/test/framework/fakeindex/"
+ "/Users/sean/Dropbox/dev/bifrost/test/framework/requests/"
+ "/Users/sean/Dropbox/dev/jotunheimr/test/verify/"
+ "/Users/sean/Dropbox/dev/jotunheimr/test/common/"
+ "/Users/sean/Dropbox/dev/jotunheimr/src/verify/"
+ "/Users/sean/dev/jotunheimr/src/daemon/"
+ "/Users/sean/Dropbox/dev/jotunheimr/src/common/"
+ "/Users/sean/Dropbox/dev/jotunheimr/src/common/sqs/"
+ "/Users/sean/Dropbox/dev/jotunheimr/src/daemon/"
+ "/Users/sean/Dropbox/dev/adzerk.core/src/adzerk/core/"
+ "/Users/sean/.m2/repository/adzerk/boot-test/1.0.3/"
+ "/Users/sean/dev/boot-test/src/adzerk/boot_test/"
+ "/Users/sean/dev/boot-test/src/adzerk/"
+ "/Users/sean/dev/jotunheimr/worker/src/worker/"
+ "/Users/sean/dev/jotunheimr/common/src/common/"
+ "/Users/sean/dev/jotunheimr/common/"
+ "/Users/sean/dev/jotunheimr/common/test/"
+ "/Users/sean/dev/jotunheimr/worker/"
+ "/Users/sean/dev/boot-test/"
+ "/Users/sean/dev/jotunheimr/worker/test/worker/"
+ "/Users/sean/dev/jotunheimr/daemon/"
+ "/Users/sean/dev/jotunheimr/daemon/src/jotunheimr/"
+ "/Users/sean/dev/jotunworker/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config"
+ ".bashrc"
+ ".gitconfig"
+ ".adzerk"
+ ".bash_profile"
+ "bidtellect.json"
+ "rtb.txt"
+ "acceptance.txt"
+ "welcome.sh"
+ ".colors"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/sean/.aws/" (21724 56622 0 0) "config" "../" "./")
+
+ ("/Users/sean/" (21864 41231 0 0) "VM/" "VirtualBox VMs/" "uninstallmono.sh" "todo.org" "sublime key" "schaney.pem" "Public/" "Pictures/" "nmx-azk synchronizer service/" "Music/" "Movies/" "Library/" "hacking/" "dump.rdb" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bifrost-request.sh" "Applications/" ".zshrc" ".Xauthority" ".viminfo" ".travis/" ".Trash/" ".subversion/" ".ssh/" ".s3cfg" ".rnd" ".rediscli_history" ".recently-used" ".profile.boot" ".profile" ".overtone/" ".openvr/" ".nrepl-history" ".npm/" ".node-gyp/" ".mysql_history" ".mono/" ".mongorc.js" ".m2/" ".local/" ".lesshst" ".lein/" ".irb_history" ".inputrc" ".IdeaIC14/" ".humongous/" ".htoprc" ".gnupg/" ".gitconfig" ".git-completion.bash" ".gem/" ".filezilla/" ".erlang.cookie" ".emacs.d/" ".elasticbeanstalk/" ".DS_Store" ".dropbox/" ".dotfiles/" ".distlib/" ".dbshell" ".cups/" ".creds" ".config/" ".colors" ".coffee_history" ".chef/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".boot/" ".bashrc" ".bash_profile.macports-saved_2015-03-18_at_12:26:02" ".bash_profile" ".bash_history" ".aws/" ".android/" ".aliases" "../" "./")
+
+ ("/Users/sean/dev/adzerk/" (21768 18495 0 0) "Vagrantfile" "vagrant/" "Utils/" "Util/" "Scripts/" "README.md" "Rakefile" "Node Instructions.txt" "FunctionalTests/" "Code/" ".gitignore" ".git/" ".DS_Store" ".adzerk" "../" "./")
+
+ ("/Users/sean/dev/" (21863 37778 0 0) "zerkel/" "yggdrasil/" "var/" "sinmara/" "siesta/" "santas-little-sqs-worker/" "requeue.coffee" "regenerate-subsonic.cmd" "reddit.js" "OSGS14-WindowsSetupBox-32bitand64bit-English-4141408.exe" "notes/" "newsmax/" "mysql/" "my-little-adzerk/" "meek-mock/" "kvasir/" "junkbox/" "jquery.mori-example/" "jotunheimr/" "iodocs/" "hlin/" "heimdallr/" "gerda/" "FlatRateFix/" "FixMultiviewShit/" "fix-asg" "datalayer/" "cli-tools/" "bt-mongo-shit/" "boot-test/" "boot-presentation/" "boot-beanstalk/" "bifrost/" "bidtellect.json" "bbexport.cmd" "adzerk.core/" "adzerk-vagrant/" "adzerk-reddit/" "adzerk-knife/" "adzerk-chef/" "adzerk-api/" "adzerk/" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/handlers/api-v2/" (21863 20599 0 0) "ApiV2Response.coffee" "ApiV2Request.coffee" "ApiV2Placement.coffee" "ApiV2Handler.coffee" "../" "./")
+
+ ("/Users/sean/dev/notes/" (21861 61260 0 0) "rtb.txt" "4-8-15.txt" "4-27-2015.txt" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/unit/" (21862 3018 0 0) "ZerkelExecutor.tests.coffee" "WurflLookup.tests.coffee" "UserAgentValidator.tests.coffee" "UrlGenerator.tests.coffee" "stringutil.tests.coffee" "RedisBackingStore.tests.coffee" "LotterySelector.tests.coffee" "LotteryChainSelector.tests.coffee" "KeywordMatchingBenchmark.coffee" "DynamoUser.tests.coffee" "DynamoDocument.tests.coffee" "CookieUser.tests.coffee" "ClickRequest.tests.coffee" "AuctionChainSelector.tests.coffee" "ApiV2Response.tests.coffee" "../" "./")
+
+ ("/Users/sean/dev/bifrost/" (21861 55791 0 0) "todo.org" "test/" "scripts/" "README.md" "package.json" "node_modules/" "logs/" "lib/" "img/" "data/" "config/" "client/" "bifrost" "apps/" "acceptance.txt" ".travis.yml" ".gitignore" ".git/" ".DS_Store" ".codoopts" "../" "./")
+
+ ("/Users/sean/Documents/" (21861 56183 0 0) "www/" "wtf.json" "wgtest.html" "untitled" "test3.html" "test2.html" "test.js" "test.html" "tablesorter/" "stuff.numbers/" "stuff/" "static.html" "SQL Server Management Studio/" "sitereport.json" "room.csv" "report.json" "PREMIUM_DIRECT_flights.csv" "phpstuff.txt" "phpstuff.csv" "Outlook Temp/" "nmxjunk.js" "nmax test data/" "mvflights.txt" "multiview flights.txt" "mongodbreport.json" "Log at 2014-06-03 17.07.47.txt" "Library/" "index-test.html" "Index-OpenRTB-Supply-Integration_(4).pdf" "hctest.rb" "hcmonth.rb" "foreignkeys.csv" "customreport.json" "curl" "csharpreport.json" "connect_old.js" "connect.js" "btp3ptest.html" "BT ads by country.numbers/" "BT ads by country.csv" "BT active ads by country.csv" "bannersbroker.zip" "bannersbroker/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/bidders/" (21854 9937 0 0) "IndexBidder.coffee" "DummyBidder.coffee" "BidtellectBidder.coffee" "Bidder.coffee" "../" "./")
+
+ ("/Users/sean/.dotfiles/" (21854 13977 0 0) "scripts/" "../" "./")
+
+ ("/Users/sean/.dotfiles/scripts/" (21854 14402 0 0) "welcome.sh" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/verify/" (21748 37634 0 0) "rollup.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/" (21833 9632 0 0) "todo.org" "test/" "scripts/" "README.md" "package.json" "node_modules/" "logs/" "lib/" "img/" "data/" "config/" "client/" "bifrost" "apps/" "acceptance.txt" ".travis.yml" ".gitignore" ".git/" ".DS_Store" ".codoopts" "../" "./")
+
+ ("/Users/sean/.emacs.d/" (21825 11442 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "project-explorer-cache/" "places" "init.el" "ido.last" "games/" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".mc-lists.el" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/selectors/" (21816 4753 0 0) "Selector.coffee" "LotteryWithOutbidSelector.coffee" "LotterySelector.coffee" "LotteryChainSelector.coffee" "AuctionSelector.coffee" "AuctionChainSelector.coffee" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/integration/adserver/" (21796 5518 0 0) "Weighting.tests.coffee" "UserAgentTargeting.tests.coffee" "UrlTargeting.tests.coffee" "TrackingApi.tests.coffee" "StaticRequest.tests.coffee" "SiteTargeting.tests.coffee" "Rendering.tests.coffee" "ReferrerTargeting.tests.coffee" "Passbacks.tests.coffee" "MatchCompanionAds.tests.coffee" "LoungeCreative.tests.coffee" "LocationTargeting.tests.coffee" "KeywordTargeting.tests.coffee" "KeywordReporting.tests.coffee" "KeywordOptimizedPriority.tests.coffee" "IPTargeting.tests.coffee" "FrequencyCapping.tests.coffee" "ForceTargeting.tests.coffee" "FloorPricing.tests.coffee" "FlightStartEndDates.tests.coffee" "Extensions.tests.coffee" "ExcludeDuplicates.tests.coffee" "DynamicSiteOverride.tests.coffee" "DuplicateMode.tests.coffee" "DeviceTargeting.tests.coffee" "DayTargeting.tests.coffee" "CustomPropertyTargeting.tests.coffee" "CustomExtensionScripts.test.coffee" "CreativeMetadata.tests.coffee" "CreativeMacros.tests.coffee" "CompetitorExclusions.tests.coffee" "BlockedItems.tests.coffee" "AuctionSelection.tests.coffee" "ApiV2Targeting.tests.coffee" "ApiV2NonMobile.tests.coffee" "ApiV2Mobile.tests.coffee" "ApiV2Macros.tests.coffee" "ApiV1.tests.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/rendering/statements/" (21796 6055 0 0) "Statement.coffee" "SetZItems.coffee" "LoadVeripixel.coffee" "LoadStylesheet.coffee" "LoadJavascript.coffee" "LoadHtml.coffee" "LoadFriendlyIFrame.coffee" "LoadExternalStylesheet.coffee" "LoadExternalJavascript.coffee" "LoadExtensionStylesheet.coffee" "LoadExtensionJavascript.coffee" "LoadAdChain.coffee" "AttachExtension.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/rendering/" (21817 22001 0 0) "templates/" "statements/" "renderers/" "Renderer.coffee" "extensions/" "CodeGenerator.coffee" "CodeBlock.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/" (21817 22001 0 0) "routes.coffee" "rendering/" "planning/" "package.json" "handlers/" "AdServerEnvironment.coffee" "AdServerApplication.coffee" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/client/" (21825 10641 0 0) "test.html" "Makefile" "extensions/" "crossdomain.xml" "ados.js.gz" "ados.js" "ados.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/" (21817 22001 0 0) "selectors/" "Selection.coffee" "RtbContent.coffee" "Rejection.coffee" "Planner.coffee" "Plan.coffee" "Introspective.coffee" "IndexContent.coffee" "filters/" "DummyContent.coffee" "DecisionFactory.coffee" "Decision.coffee" "Bucket.coffee" "BidtellectContent.coffee" "bidders/" "Bid.coffee" ".DS_Store" "../" "./")
+
+ ("/etc/redis/" (21822 27992 0 0) "../" "./")
+
+ ("/etc/" (21822 27992 0 0) "zshenv" "xtab" "ttys" "thnuclnt/" "syslog.conf" "sudoers" "sshd_config~previous" "sshd_config" "ssh_host_rsa_key.pub" "ssh_host_rsa_key" "ssh_host_key.pub" "ssh_host_key" "ssh_host_dsa_key.pub" "ssh_host_dsa_key" "ssh_config~orig" "ssh_config" "snmp/" "shells" "services" "security/" "rtadvd.conf" "rpc" "rmtab" "resolv.conf" "redis/" "rc.netboot" "rc.imaging" "rc.common" "racoon/" "protocols" "profile" "ppp/" "postfix/" "php.ini.default-5.2-previous~orig" "php.ini.default-5.2-previous" "php.ini.default" "php-fpm.conf.default" "pf.os" "pf.conf" "pf.anchors/" "periodic/" "paths.d/" "paths" "passwd~orig" "passwd" "pam.d/" "openssl/" "openldap/" "ntp_opendirectory.conf" "ntp.conf" "ntp-restrict.conf" "notify.conf" "nfs.conf" "newsyslog.d/" "newsyslog.conf" "networks" "nanorc" "moduli~previous" "moduli" "master.passwd~orig" "master.passwd" "manpaths.d/" "manpaths" "man.conf" "mail.rc" "mach_init_per_user.d/" "mach_init_per_login_session.d/" "mach_init.d/" "locate.rc" "localtime" "krb5.keytab" "kern_loader.conf" "kcpassword" "irbrc" "hosts~orig" "hosts.equiv" "hosts" "group~previous" "group" "gettytab" "ftpusers" "ftpd.conf.default" "ftpd.conf" "fstab.hd" "find.codes" "emond.d/" "efax.rc" "dnsextd.conf" "defaults/" "cups/" "csh.logout" "csh.login" "csh.cshrc" "com.apple.screensharing.agent.launchd" "bashrc" "autofs.conf" "auto_master" "auto_home" "authorization.deprecated" "asl.conf" "asl/" "apache2/" "aliases.db" "aliases" "afpovertcp.cfg" "AFP.conf" "../" "./")
+
+ ("/Users/" (21663 5332 0 0) "Shared/" "sean/" "Guest/" "adzerk/" ".localized" "../" "./")
+
+ ("/Users/sean/.elasticbeanstalk/" (21724 56622 0 0) "config.yml" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/rendering/renderers/" (21812 25522 0 0) "AdRenderer.coffee" "AdChainRenderer.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/" (21817 5622 0 0) "unit/" "test-ecache.json.gz" "mocha.opts" "integration/" "framework/" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/integration/rtb/" (21817 7449 0 0) "IndexBidder.tests.coffee" "DummyBidder.tests.coffee" "BidtellectBidder.tests.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/integration/" (21796 6055 0 0) "userdbserver/" "UserDB.tests.coffee" "rtb/" "eventserver/" "adserver/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/fakeindex/handlers/" (21814 62332 0 0) "FakeIndexHandler.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/fakeindex/" (21814 62332 0 0) "routes.coffee" "package.json" "handlers/" "FakeIndexServer.coffee" "FakeIndexApplication.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/" (21796 6055 0 0) "testutil.coffee" "TestHarness.coffee" "testdata/" "requests/" "mocks/" "fakeindex/" "environments/" "dynamodb/" "AdCodeSandbox.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/environments/" (21796 6055 0 0) "TestUserDBServerEnvironment.coffee" "TestEventServerEnvironment.coffee" "TestAdServerEnvironment.coffee" "FakeIndexEnvironment.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/lib/" (21796 5506 0 0) "uuid.coffee" "users/" "time.coffee" "string.coffee" "stats.coffee" "services/" "models/" "log.coffee" "keywords.coffee" "framework/" "enums/" "db/" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/lib/enums/" (21714 27560 0 0) "TimeCapType.coffee" "RateType.coffee" "PayoutType.coffee" "GoalType.coffee" "FrequencyCapType.coffee" "DuplicateMode.coffee" "DeliveryMode.coffee" "ConversionType.coffee" "BehavioralTargeting.coffee" "../" "./")
+
+ ("/Users/sean/dev/adzerk.core/" (21684 7584 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "profiles.clj" "pom.xml" ".travis.yml" ".nrepl-history" ".lein-repl-history" ".lein-failures" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/worker/" (21733 2040 0 0) "seed.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/src/verify/" (21748 37634 0 0) "rollup.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/dev/adzerk-chef/lookup/" (21797 48098 0 0) "test/" "ssh.txt" "src/" "resources/" "README.md" "lookup.shit" "LICENSE" "doc/" "build.boot" ".nrepl-history" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bt-mongo-shit/" (21797 62521 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "build.boot" ".nrepl-history" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/" (21752 47667 0 0) "test/" "target/" "src/" "script/" "run.log.3" "run.log.2" "run.log.1" "run.log" "README.md" "mongo/" "fig.yml" "Dockerfile" "config/" "build.boot" ".travis.yml" ".nrepl-history" ".gitignore" ".git/" ".elasticbeanstalk/" ".boot/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/" (21797 47663 0 0) "zerkel/" "yggdrasil/" "var/" "sinmara/" "santas-little-sqs-worker/" "requeue.coffee" "regenerate-subsonic.cmd" "notes/" "newsmax/" "mysql/" "my-little-adzerk/" "meek-mock/" "kvasir/" "jquery.mori-example/" "jotunheimr/" "hlin/" "heimdallr/" "gerda/" "FlatRateFix/" "FixMultiviewShit/" "datalayer/" "cli-tools/" "bt-mongo-shit/" "boot-test/" "boot-beanstalk/" "bifrost/" "bbexport.cmd" "adzerk.core/" "adzerk-vagrant/" "adzerk-reddit/" "adzerk-knife/" "adzerk-chef/" "adzerk-api/" "adzerk/" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bt-mongo-shit/src/" (21794 60411 0 0) "bt_mongo_shit/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bt-mongo-shit/src/bt_mongo_shit/" (21795 60839 0 0) "time.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/src/" (21702 27903 0 0) "worker/" "verify/" "data_readers.clj" "daemon/" "common/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/" (21752 47667 0 0) "test/" "target/" "src/" "script/" "run.log.3" "run.log.2" "run.log.1" "run.log" "README.md" "mongo/" "fig.yml" "Dockerfile" "config/" "build.boot" ".travis.yml" ".nrepl-history" ".gitignore" ".git/" ".elasticbeanstalk/" ".boot/" "../" "./")
+
+ ("/Users/sean/dev/bt-mongo-shit/" (21794 61510 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "build.boot" ".nrepl-port" ".nrepl-history" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/sean/dev/adzerk-chef/" (21797 34524 0 0) "typescript" "scripts/" "roles/" "README.md" "Rakefile" "ops/" "nodes/" "mongo-instance-instructions.txt" "lookup.shit" "how_to_run_wukong_for_emr.txt" "how_to_create_a_new_server.txt" "environments/" "data_bags/" "cookbooks/" "config/" "client-config/" ".gitignore" ".git/" ".DS_Store" ".chef/" "../" "./")
+
+ ("/Users/sean/hacking/" (21788 26845 0 0) "whatever.rb" "valhalla-angular/" "test.rb" "test.py" "test.coffee" "test.clj" "support.rb" "spet2.csv" "sky.rb" "report.json" "overtone-test/" "november.csv" "nhibernate/" "newsmax/" "monthly.rb" "json2csv_impressions.rb" "json2csv.rb" "geo/" "fuck.rb" "december1-13.csv" "december.csv" "angular-seed/" "angular-phonecat/" "angular-grunt-coffeescript/" "alda/" "advertiserreport.json" "2013/" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/config/" (21788 17666 0 0) "index.coffee" "dev.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/test/framework/requests/" (21714 27560 0 0) "TestUserDBRequest.coffee" "TestRequest.coffee" "TestEventRequest.coffee" "TestAdRequest.coffee" "JsonResponse.coffee" "JsonRequest.coffee" "ApiV2Request.coffee" "ApiV1Request.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/" (21714 27559 0 0) "userdbserver/" "logsweeper/" "healthcheck/" "eventserver/" "adserver/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/bifrost/apps/healthcheck/" (21490 19895 0 0) "routes.coffee" "package.json" "HealthServer.coffee" "HealthReport.coffee" "HealthCheckHandler.coffee" "HealthCheckEnvironment.coffee" "HealthCheckApplication.coffee" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/test/common/" (21675 261 0 0) "time_test.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/test/" (21684 20955 0 0) "worker/" "verify/" "daemon/" "common/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/test/verify/" (21684 13059 0 0) "core_test.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/" (21702 27903 0 0) "worker/" "verify/" "data_readers.clj" "daemon/" "common/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/common/" (21707 46396 0 0) "web.clj" "util.clj" "types.clj" "time.clj" "sqs.clj" "sqs/" "sql.clj" "redis.clj" "mongo.clj" "money.clj" "log.clj" "config.clj" "color.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/src/worker/" (21693 9468 0 0) "seed.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/Desktop/" (21683 61472 0 0) ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/src/daemon/" (21688 2284 0 0) "web.clj" "mongo.clj" "cron.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/common/sqs/" (21686 58816 0 0) "impl.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/src/daemon/" (21684 7599 0 0) "web.clj" "mongo.clj" "cron.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/adzerk.core/src/adzerk/core/" (21634 6592 0 0) "uidb.clj" "model_translation.clj" "mail.clj" "jotunheimr_sql.clj" "jotunheimr_mongo.clj" "jobq.clj" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/adzerk.core/src/adzerk/" (21263 54128 0 0) "core/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/adzerk.core/src/" (21263 54128 0 0) "adzerk/" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/adzerk.core/" (21677 37468 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "profiles.clj" "pom.xml" ".travis.yml" ".nrepl-history" ".lein-repl-history" ".lein-failures" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/sean/Dropbox/dev/jotunheimr/common/" (21677 33966 0 0) ".nrepl-history" ".boot/" "../" "./")
+
+ ("/Users/sean/.m2/repository/adzerk/boot-test/1.0.3/" (21677 38009 0 0) "boot-test-1.0.3.pom" "boot-test-1.0.3.jar" "_maven.repositories" "../" "./")
+
+ ("/Users/sean/.m2/repository/adzerk/boot-test/" (21649 49484 0 0) "resolver-status.properties" "maven-metadata-local.xml" "maven-metadata-deploy-clojars.xml.sha1" "maven-metadata-deploy-clojars.xml" "1.0.3/" "1.0.2/" "1.0.1/" "1.0.0-SNAPSHOT/" "1.0.0/" "../" "./")
+
+ ("/Users/sean/.m2/repository/adzerk/" (21675 277 0 0) "core/" "bootlaces/" "boot-test/" "boot-logservice/" "boot-beanstalk/" "../" "./")
+
+ ("/Users/sean/.m2/repository/" (21675 352 0 0) "trptcolin/" "tigris/" "tailrecursion/" "slingshot/" "s3-wagon-private/" "ring/" "riddley/" "reply/" "prismatic/" "primitive-math/" "potemkin/" "pjstadig/" "org/" "ns-tracker/" "net/" "mvxcvi/" "medley/" "log4j/" "leinjacker/" "lein-ring/" "lein-beanstalk/" "joda-time/" "jline/" "javazoom/" "javax/" "java-jdbc/" "instaparse/" "honeysql/" "hiccup/" "fs/" "de/" "crypto-random/" "crypto-equality/" "crouton/" "compojure/" "compliment/" "commons-logging/" "commons-io/" "commons-httpclient/" "commons-fileupload/" "commons-codec/" "com/" "clout/" "clojurewerkz/" "clojure-complete/" "cljs-tooling/" "clj-yaml/" "clj-tuple/" "clj-time/" "clj-stacktrace/" "clj-jgit/" "clj-http-lite/" "clj-http/" "cider/" "cheshire/" "ch/" "byte-streams/" "boot/" "alandipert/" "adzerk/" "../" "./")
+
+ ("/Users/sean/.m2/" (21640 26682 0 0) "repository/" "../" "./")
+
+ ("/Users/sean/dev/boot-test/src/adzerk/boot_test/" (21649 49101 0 0) "test.clj" "../" "./")
+
+ ("/Users/sean/dev/boot-test/" (21662 57810 0 0) "target/" "src/" "README.md" "LICENSE" "build.boot" ".travis.yml" ".nrepl-history" ".gitignore" ".git/" ".DS_Store" ".boot/" "../" "./")
+
+ ("/usr/local/bin/" (21677 29832 0 0) "x86_64-apple-darwin13.0.0-gcc-4.6.4" "x86_64-apple-darwin13.0.0-gcc-4.6" "x86_64-apple-darwin13.0.0-g++-4.6" "x86_64-apple-darwin13.0.0-c++-4.6" "wsdump.py" "word-list-compress" "wget" "watch" "v8" "unrar" "typer" "tree" "to_erl" "stackvis" "stackcollapse-stap" "stackcollapse-perf" "stackcollapse" "slencheck" "sconsign" "scons-time" "scons" "s3cmd" "run_erl" "run-with-aspell" "rstpep2html.py" "rst2xml.py" "rst2xetex.py" "rst2s5.py" "rst2pseudoxml.py" "rst2odt_prepstyles.py" "rst2odt.py" "rst2man.py" "rst2latex.py" "rst2html.py" "resolveip" "resolve_stack_dump" "replace" "redis-server" "redis-sentinel" "redis-cli" "redis-check-dump" "redis-check-aof" "redis-benchmark" "pspell-config" "process" "prezip-bin" "prezip" "preunzip" "preparser" "precat" "pkg-config" "pip2.7" "pip2" "pip-2.7" "pip" "perror" "pcretest" "pcregrep" "pcre-config" "pair" "odbcinst" "odbc_config" "npm" "node-waf" "node-inspector" "node-debug" "node" "nginx" "n" "mysqltest_embedded" "mysqltest" "mysqlslap" "mysqlshow" "mysqlimport" "mysqlhotcopy" "mysqldumpslow" "mysqldump" "mysqld_safe" "mysqld_multi" "mysqld" "mysqlcheck" "mysqlbug" "mysqlbinlog" "mysqladmin" "mysql_zap" "mysql_waitpid" "mysql_upgrade" "mysql_tzinfo_to_sql" "mysql_setpermission" "mysql_secure_installation" "mysql_plugin" "mysql_install_db" "mysql_fix_extensions" "mysql_find_rows" "mysql_embedded" "mysql_convert_table_format" "mysql_config_editor" "mysql_config" "mysql_client_test_embedded" "mysql_client_test" "mysql.server" "mysql" "myisampack" "myisamlog" "myisamchk" "myisam_ftdump" "my_print_defaults" "msql2mysql" "mongotop" "mongostat" "mongosniff" "mongos" "mongorestore" "mongoperf" "mongooplog" "mongoimport" "mongofiles" "mongoexport" "mongodump" "mongod" "mongo" "mocha" "mksnapshot.x64" "lineprocessor" "lein" "ksba-config" "jwalk" "jsonpp" "iusql" "isql" "innochecksum" "ifnames" "hg" "heroku" "grunt" "grep-changelog" "gpgv" "gpgsplit" "gpg-zip" "gpg-error-config" "gpg-error" "gpg" "glibtoolize" "glibtool" "gitk" "git-upload-pack" "git-upload-archive" "git-subtree" "git-shell" "git-remote-hg" "git-remote-bzr" "git-receive-pack" "git-cvsserver" "git-credential-osxkeychain" "git" "geoiplookup6" "geoiplookup" "gcov-4.6" "gcc-4.6" "g++-4.6" "flamegraph" "fig" "etags" "escript" "erlc" "erl" "epmd" "emacsclient" "emacs-24.3" "emacs" "ebrowse" "e" "docker" "dltest" "dialyzer" "d8" "curve_keygen" "ct_run" "cpp-4.6" "coffee" "codo" "cake" "c++-4.6" "bsondump" "brew" "boot2docker" "boot" "autoupdate" "autoscan" "autoreconf" "automake-1.14" "automake" "autom4te" "autoheader" "autoconf" "aspell-import" "aspell" "aclocal-1.14" "aclocal" "_mocha" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/worker/" (21649 60974 0 0) "test/" "src/" "script/" "README.md" "mongo/" "logs/" "LICENSE" "fig.yml" "Dockerfile" "build.boot" ".nrepl-port" ".nrepl-history" ".gitignore" ".boot/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/worker/src/worker/" (21649 54891 0 0) "web.clj" "sqs.clj" "seed.clj" "core.clj" ".nrepl-port" ".nrepl-history" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/common/src/common/" (21649 48418 0 0) "time.clj" "log.clj" "color.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/common/" (21649 59882 0 0) "test/" "src/" "deps.edn" "build.boot" ".nrepl-history" ".boot/" "../" "./")
+
+ ("/Users/sean/dev/boot-test/src/adzerk/" (21649 49101 0 0) "boot_test.clj" "boot_test/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/common/test/common/" (21649 48512 0 0) "time_test.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/common/test/" (21649 46602 0 0) "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/common/src/" (21649 45461 0 0) "common/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/worker/src/" (21641 54540 0 0) "worker/" "banner.txt" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/worker/test/" (21641 54540 0 0) "worker/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/worker/test/worker/" (21647 24045 0 0) "core_test.clj" ".nrepl-port" ".nrepl-history" ".boot/" "../" "./")
+
+ ("/Users/sean/.emacs.d/elpa/markdown-mode+-20120829.510/" (21640 47565 0 0) "markdown-mode+.elc" "markdown-mode+.el" "markdown-mode+-pkg.el" "markdown-mode+-autoloads.el" "HTML as Markdown in Emacs.applescript" "../" "./")
+
+ ("/Users/sean/dev/boot-test/src/" (21640 46292 0 0) "adzerk/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/daemon/src/" (21640 31985 0 0) "daemon/" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/daemon/" (21640 32546 0 0) "src/" "build.boot" ".nrepl-history" ".gitignore" "../" "./")
+
+ ("/Users/sean/dev/adzerk.core/src/adzerk/core/" (21634 6592 0 0) "uidb.clj" "model_translation.clj" "mail.clj" "jotunheimr_sql.clj" "jotunheimr_mongo.clj" "jobq.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/daemon/src/jotunheimr/" (21633 52149 0 0) "mongo.clj" "core.clj" ".nrepl-port" ".nrepl-history" "../" "./")
+
+ ("/Users/sean/.emacs.d/games/" (21628 52544 0 0) "tetris-scores" "../" "./")
+
+ ("/Users/sean/.emacs.d/customizations/" (21628 49001 0 0) "ui.el" "themes.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/sean/dev/jotunheimr/src/jotunheimr/" (21628 54466 0 0) "mongo.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/dev/jotunworker/" (21628 34492 0 0) "todo.org" "test/" "target/" "src/" "script/" "README.md" "mongo/" "LICENSE" "jotunworker.iml" "fig.yml" "Dockerfile" "doc/" "build.boot" ".nrepl-port" ".lein-repl-history" ".lein-failures" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/sean/dev/var/src/var/" (21580 19493 0 0) "model_update.clj" "core.clj" "../" "./")
+
+ ("/Users/sean/dev/var/src/" (21259 51608 0 0) "var/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

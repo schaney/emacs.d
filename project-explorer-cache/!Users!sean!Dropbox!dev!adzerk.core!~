@@ -1,0 +1,2 @@
+
+("adzerk.core" ("resources" "log4j.properties") ("src" ("adzerk" ("core" "jobq.clj" "jotunheimr_mongo.clj" "jotunheimr_sql.clj" "mail.clj" "model_translation.clj" "uidb.clj"))) ("target" ("classes") ("stale" "extract-native.dependencies") "adzerk.core-0.3.8-SNAPSHOT.jar" "adzerk.core-0.3.9-SNAPSHOT.jar" "adzerk.core-0.4.0-SNAPSHOT.jar") ("test" ("adzerk" ("core" "t_model_translation.clj"))) "README.md" "pom.xml" "profiles.clj" "project.clj")
