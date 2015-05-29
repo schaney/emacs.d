@@ -47,6 +47,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/sean/.dotfiles/"
  "/Users/sean/.aws/"
  "/Users/sean/"
  "/Users/sean/dev/adzerk/"
@@ -96,11 +97,11 @@
  "/Users/sean/dev/jotunheimr/worker/test/worker/"
  "/Users/sean/dev/jotunheimr/daemon/"
  "/Users/sean/dev/jotunheimr/daemon/src/jotunheimr/"
- "/Users/sean/dev/jotunworker/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "creds"
  "config"
  ".bashrc"
  ".gitconfig"
@@ -110,14 +111,15 @@
  "rtb.txt"
  "acceptance.txt"
  "welcome.sh"
- ".colors"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/sean/.aws/" (21724 56622 0 0) "config" "../" "./")
+ ("/Users/sean/.dotfiles/" (21864 44558 0 0) "scripts/" "README.md" "README.markdown" "Rakefile" "gitconfig" "git-completion.bash" "colors" "bash_profile" "aliases" ".gitignore" ".git/" "../" "./")
 
- ("/Users/sean/" (21864 41231 0 0) "VM/" "VirtualBox VMs/" "uninstallmono.sh" "todo.org" "sublime key" "schaney.pem" "Public/" "Pictures/" "nmx-azk synchronizer service/" "Music/" "Movies/" "Library/" "hacking/" "dump.rdb" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bifrost-request.sh" "Applications/" ".zshrc" ".Xauthority" ".viminfo" ".travis/" ".Trash/" ".subversion/" ".ssh/" ".s3cfg" ".rnd" ".rediscli_history" ".recently-used" ".profile.boot" ".profile" ".overtone/" ".openvr/" ".nrepl-history" ".npm/" ".node-gyp/" ".mysql_history" ".mono/" ".mongorc.js" ".m2/" ".local/" ".lesshst" ".lein/" ".irb_history" ".inputrc" ".IdeaIC14/" ".humongous/" ".htoprc" ".gnupg/" ".gitconfig" ".git-completion.bash" ".gem/" ".filezilla/" ".erlang.cookie" ".emacs.d/" ".elasticbeanstalk/" ".DS_Store" ".dropbox/" ".dotfiles/" ".distlib/" ".dbshell" ".cups/" ".creds" ".config/" ".colors" ".coffee_history" ".chef/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".boot/" ".bashrc" ".bash_profile.macports-saved_2015-03-18_at_12:26:02" ".bash_profile" ".bash_history" ".aws/" ".android/" ".aliases" "../" "./")
+ ("/Users/sean/" (21864 44152 0 0) "VM/" "VirtualBox VMs/" "uninstallmono.sh" "todo.org" "sublime key" "schaney.pem" "Public/" "Pictures/" "nmx-azk synchronizer service/" "Music/" "Movies/" "Library/" "hacking/" "dump.rdb" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bifrost-request.sh" "Applications/" ".zshrc" ".Xauthority" ".viminfo" ".travis/" ".Trash/" ".subversion/" ".ssh/" ".scripts/" ".s3cfg" ".rnd" ".rediscli_history" ".recently-used" ".README.md" ".README.markdown" ".Rakefile" ".profile.boot" ".profile" ".overtone/" ".openvr/" ".nrepl-history" ".npm/" ".node-gyp/" ".mysql_history" ".mono/" ".mongorc.js" ".m2/" ".local/" ".lesshst" ".lein/" ".irb_history" ".inputrc" ".IdeaIC14/" ".humongous/" ".htoprc" ".gnupg/" ".gitconfig" ".git-completion.bash" ".gem/" ".filezilla/" ".erlang.cookie" ".emacs.wat/" ".emacs.d.old/" ".emacs.d/" ".emacs-d2/" ".elasticbeanstalk/" ".DS_Store" ".dropbox/" ".dotfiles/" ".distlib/" ".dbshell" ".cups/" ".creds" ".config/" ".colors" ".coffee_history" ".chef/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".boot/" ".bash_profile.macports-saved_2015-03-18_at_12:26:02" ".bash_profile" ".bash_history" ".aws/" ".android/" ".aliases" "../" "./")
+
+ ("/Users/sean/.aws/" (21724 56622 0 0) "config" "../" "./")
 
  ("/Users/sean/dev/adzerk/" (21768 18495 0 0) "Vagrantfile" "vagrant/" "Utils/" "Util/" "Scripts/" "README.md" "Rakefile" "Node Instructions.txt" "FunctionalTests/" "Code/" ".gitignore" ".git/" ".DS_Store" ".adzerk" "../" "./")
 
@@ -134,8 +136,6 @@
  ("/Users/sean/Documents/" (21861 56183 0 0) "www/" "wtf.json" "wgtest.html" "untitled" "test3.html" "test2.html" "test.js" "test.html" "tablesorter/" "stuff.numbers/" "stuff/" "static.html" "SQL Server Management Studio/" "sitereport.json" "room.csv" "report.json" "PREMIUM_DIRECT_flights.csv" "phpstuff.txt" "phpstuff.csv" "Outlook Temp/" "nmxjunk.js" "nmax test data/" "mvflights.txt" "multiview flights.txt" "mongodbreport.json" "Log at 2014-06-03 17.07.47.txt" "Library/" "index-test.html" "Index-OpenRTB-Supply-Integration_(4).pdf" "hctest.rb" "hcmonth.rb" "foreignkeys.csv" "customreport.json" "curl" "csharpreport.json" "connect_old.js" "connect.js" "btp3ptest.html" "BT ads by country.numbers/" "BT ads by country.csv" "BT active ads by country.csv" "bannersbroker.zip" "bannersbroker/" ".localized" ".DS_Store" "../" "./")
 
  ("/Users/sean/Dropbox/dev/bifrost/apps/adserver/planning/bidders/" (21854 9937 0 0) "IndexBidder.coffee" "DummyBidder.coffee" "BidtellectBidder.coffee" "Bidder.coffee" "../" "./")
-
- ("/Users/sean/.dotfiles/" (21854 13977 0 0) "scripts/" "../" "./")
 
  ("/Users/sean/.dotfiles/scripts/" (21854 14402 0 0) "welcome.sh" "../" "./")
 

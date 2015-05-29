@@ -7,3 +7,10 @@ projectile-bookmarks.eld
 projectile.cache
 auto-save-list
 backups
+.smex-items
+cider-history
+ido.last
+places
+projectile-bookmarks.eld
+auto-save-list
+backups
