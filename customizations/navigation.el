@@ -58,6 +58,8 @@
 (global-set-key (kbd "M-x") 'smex)
 
 ;; projectile everywhere!
+(require 'projectile)
+
 (projectile-global-mode)
 
 (global-set-key (kbd "s-t") 'projectile-find-file)
@@ -66,7 +68,6 @@
 (global-auto-highlight-symbol-mode)
 
 ;; bind rgrep
-
 (global-set-key (kbd "M-g M-r") 'rgrep)
 
 ;;; :set wrapscan emulation
