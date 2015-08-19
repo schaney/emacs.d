@@ -1,2 +1,0 @@
-
-("bt-mongo-shit" ("doc" "intro.md") ("resources") ("src" ("bt_mongo_shit" "core.clj")) ("test" ("bt_mongo_shit" "core_test.clj")) "LICENSE" "README.md" "project.clj")

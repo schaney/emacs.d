@@ -4,11 +4,14 @@
 (setq mc/cmds-to-run-for-all
       '(
         coffee-dedent-line-backspace
+        coffee-indent-shift-left
         coffee-newline-and-indent
         delete-horizontal-space
         electric-newline-and-maybe-indent
+        end-of-buffer
         handle-switch-frame
         ido-switch-buffer
+        indent-for-tab-command
         isearch-repeat-forward
         kill-region
         mouse-set-region
@@ -28,6 +31,8 @@
 (setq mc/cmds-to-run-once
       '(
         ido-find-file
+        make-frame
         previous-buffer
+        projectile-find-file
         tagedit-convolute-tags
         ))

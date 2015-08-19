@@ -156,8 +156,11 @@
  '(menu-bar-mode t)
  '(pe/cache-enabled t)
  '(pe/omit-enabled t)
- '(pe/omit-regex "^\\.\\|^#\\|~$\\|^node_modules")
+ '(pe/omit-regex "^\\.\\|^#\\|~$\\|^target\\|^node_modules")
  '(pe/width 30)
+ '(projectile-globally-ignored-directories
+   (quote
+    (".idea" ".eunit" ".git" ".hg" ".fslckout" ".bzr" "_darcs" ".tox" ".svn" "build" "target" "node_modules")))
  '(tool-bar-mode nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
